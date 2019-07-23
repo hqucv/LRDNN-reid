@@ -17,16 +17,16 @@ ID) problem. However, the inaccurate output from pose or attribute modules will 
 ### 2. Results
 | Methods      | Market1501(Rank-1/mAP) | DukeMTMC-reid(Rank-1/mAP)|
 | -------------|:-------------:| -----:|
-| PIE          | 79.3 | 56.0| -    | -  |
-| AttIDNet     | -    | -   |   70.7 |51.9|
-| ResNet+OIM   | 82.1   | - |    $1 |
-| ACRN         |83.6  | 62.6|72.6| 52.0|
-| SVD Net      |82.3 | 62.1 |76.7 |56.8|
-| Part Aligned |81.1 |63.4| - |-|
-| PSE          |87.7| 69.0 |79.8| 62.0|
-| MGCAM        |83.8 |74.3| -| -|
-| AACN         |85.9| 66.9 |76.8 |59.3|
-| Ours         |90.4 |82.8 |85.3 |73.2|
+| PIE          | 79.3/ 56.0| -/-  |
+| AttIDNet     | -/-   |   70.7/51.9|
+| ResNet+OIM   | 82.1/- | -/68.1 |
+| ACRN         |83.6/62.6|72.6/52.0|
+| SVD Net      |82.3/62.1 |76.7/56.8|
+| Part Aligned |81.1/63.4| -/-|
+| PSE          |87.7/69.0 |79.8/62.0|
+| MGCAM        |83.8/74.3| -/-|
+| AACN         |85.9/66.9 |76.8/59.3|
+| Ours         |90.4/82.8 |85.3/73.2|
 
 
 
