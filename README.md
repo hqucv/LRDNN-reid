@@ -16,7 +16,7 @@ ID) problem. However, the inaccurate output from pose or attribute modules will 
 
 ### 2. Results
 | Methods      | Market1501(Rank-1/mAP) | DukeMTMC-reid(Rank-1/mAP)|
-| -------------|:-------------:| -----:|
+| -------------|:-------------:| :-----:|
 | PIE          | 79.3/ 56.0| -/-  |
 | AttIDNet     | -/-   |   70.7/51.9|
 | ResNet+OIM   | 82.1/- | -/68.1 |
