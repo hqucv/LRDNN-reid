@@ -15,8 +15,7 @@ ID) problem. However, the inaccurate output from pose or attribute modules will 
 * We conduct our experiments on 1 GTX1080ti GPU
 
 ### 2. Results
-| Methods      | Market1501 | DukeMTMC-reid|
-|              | Rank-1 |mAP| Rank-1 | mAP |
+| Methods      | Market1501(Rank-1/mAP) | DukeMTMC-reid(Rank-1/mAP)|
 | -------------|:-------------:| -----:|
 | PIE          | 79.3 | 56.0| -    | -  |
 | AttIDNet     | -    | -   |   70.7 |51.9|
