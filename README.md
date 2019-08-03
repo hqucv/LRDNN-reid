@@ -7,7 +7,7 @@ ID) problem. However, the inaccurate output from pose or attribute modules will 
 
 
 ## News
-* 2019-05-10: our paper has been accepted for publication in the proceedings of IJCA2019.
+* 2019-05-10: [our paper has been accepted for publication in the proceedings of IJCA2019](https://www.ijcai19.org/accepted-papers.html).
 
 ## Experiments
 
