@@ -35,7 +35,7 @@ ID) problem. However, the inaccurate output from pose or attribute modules will 
 ```
 @article{zhou2019lrdnn,
 title={LRDNN: Local-refining based Deep Neural Network for Person Re-Identification with Attribute Discerning},
-author={Qinqin Zhou, Bineng Zhong*, Xiangyuan Lan, Gan Sun, Yulun Zhang, Mengran },
+author={Qinqin Zhou, Bineng Zhong, Xiangyuan Lan, Gan Sun, Yulun Zhang, Mengran },
 year={2019}}
 ```
 
