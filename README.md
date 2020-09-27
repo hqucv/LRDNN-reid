@@ -33,10 +33,11 @@ ID) problem. However, the inaccurate output from pose or attribute modules will 
 
 ## Citation: 
 ```
-@article{zhou2019lrdnn,
-title={LRDNN: Local-refining based Deep Neural Network for Person Re-Identification with Attribute Discerning},
-author={Qinqin Zhou, Bineng Zhong, Xiangyuan Lan, Gan Sun, Yulun Zhang, Mengran },
-year={2019}}
+@inproceedings{zhou2019lrdnn, 
+title={LRDNN: local-refining based deep neural network for person re-identification with attribute discerning}, 
+author={Zhou, Qinqin and Lan, Xiangyuan and Zhang, Yulun and Gou, Mengran and others}, 
+year={2019}, 
+organization={International Joint Conferences on Artificial Intelligence} }
 ```
 
 ## Contacts: 
